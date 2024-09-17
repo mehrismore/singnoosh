@@ -1,7 +1,7 @@
 ## 🎤 Welcome to Singnoosh where you can store your favorite song tracks and master them!! 
+
 ## Noosh(cheers) to singing! 🥂💕
 
----
 
 # Getting Started with Create React App
 
