@@ -1,17 +1,17 @@
 # 🎤 Welcome!
 to Singnoosh where you can store your favorite song tracks and master them!! 
 
-## 🥂💕 Noosh(cheers) to singing!
+### 🥂💕 Noosh(cheers) to singing!
 
 
 ****
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
