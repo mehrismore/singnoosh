@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Lanat",
+    "genre": "Persian Pop",
+    "mastered": "false",
+    "artist": "Baran",
+    "lyrics": "Kash mishod dastato gharz mikardam, baz kenaram toro farz mikardam, ta khode sob ghadam mizadim too khiaboon...",
+    "spotifyLink": "https://open.spotify.com/track/2nQ0Coyz0jVGr5bMDn6VVQ?si=34e5d85a45d144ac"
+  },
+  {
+    "id": 2,
+    "title": "Bedoone To",
+    "genre": "Persian Pop",
+    "mastered": "false",
+    "artist": "Xaniar Khosravi",
+    "lyrics": "Are be doone to tahe rahame, tahe donyas...",
+    "spotifyLink": "https://open.spotify.com/track/4DEnmtu9QKM7rewNU3FC2J?si=97dc59f1f4264a58"
+  },
+  {
+    "id": 3,
+    "title": "Moroor",
+    "genre": "Persian Pop",
+    "mastered": "false",
+    "artist": "Haamim",
+    "lyrics": "Man khateratam ba to ro harshab moroor mikonam...",
+    "spotifyLink": "https://open.spotify.com/track/27r3OpCPM7RFZW19m24Gwv?si=1275a0b223dd48af"
+  }
+]
